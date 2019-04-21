@@ -1,0 +1,101 @@
+*{
+  background: #57EFFF
+}
+
+.head1{
+  position: absolute;
+  left: 500px;
+  top: 200px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-color: #FFFFFF;
+
+}
+
+.head2{
+  position: absolute;
+  left: 900px;
+  top: 200px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-color: #FFFFFF;
+
+}
+
+.hhhh{
+     position:fixed;
+  left:500px;
+  top:280px;
+  width:550px;
+  height:450px;
+  background: #FFFFFF;
+
+}
+
+.face{
+     position:fixed;
+  left:580px;
+  top:340px;
+  width:400px;
+  height:330px;
+  background: #F9DDAA;
+  border-radius:30px;
+ 
+}
+
+.eyes{
+       position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 650px;
+  top:400px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.eyes2{
+       position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 850px;
+  top: 400px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.cc1{
+    position: absolute;
+  width: 80px;
+  height: 55px;
+  left: 600px;
+  top: 540px;
+  border-radius: 50%;
+  background-color: #F98AF9;
+  
+}
+
+.cc2{
+  position: absolute;
+  width: 80px;
+  height: 55px;
+  left: 880px;
+  top: 540px;
+  border-radius: 50%;
+  background-color: #F98AF9;
+}
+
+.month{
+    position: absolute;
+  width: 120px;
+  height: 70px;
+  left: 720px;
+  top: 550px;
+  border-radius: 50%;
+  background-color: #FF0000;
+}
+
+.word{
+  
+}
